@@ -1,5 +1,4 @@
 Hi!
-I'm Emmanuel, but you can call me Manu. I have recently picked an interest in code, and have grown particularly interested in web developpement in recent times.
-I am learning from multiple sources, mainly Codecademy at the moment, but I naturally wander on youtube and stackexchange quite a lot.
+I'm Emmanuel, but you can call me Manu. I have recently picked an interest in code, and have grown particularly invested in web developpement in recent times.
 
-single quotes gang
+Yes I'm still trying very hard to make my portfolio.
